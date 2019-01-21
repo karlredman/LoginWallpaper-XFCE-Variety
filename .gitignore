@@ -1,0 +1,8 @@
+*.jpg
+*.png
+
+**/Greeter/*
+**/Variety/*
+
+!.gitignore
+!.gitkeep
