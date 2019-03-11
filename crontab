@@ -1,2 +1,2 @@
-*/10 * * * * cp $(/home/util/mbin/print_random_file.pl /home/util/Variety) /home/util/Greeter/background.jpg
+*/10 * * * * cp $(/opt/LoginWalpaperUtil-xfce-variety/mbin/print_random_file.pl /opt/LoginWalpaperUtil-xfce-variety/Variety) /opt/LoginWalpaperUtil-xfce-variety/Greeter/background.jpg
 
