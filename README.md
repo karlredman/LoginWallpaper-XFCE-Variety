@@ -2,6 +2,8 @@
 
 Greeter utility for changing the wallpaper (of the greeter)
 
+* Documentation: Dev.to Article [Randomize your XFCE / LightDM Login Screen Wallpaper](https://dev.to/karlredman/randomize-your-xfce-lightdm-login-screen-wallpaper-1ape)
+
 * variety
     * this configuration sets the greeter background controlled by user 'karl'. a directory under `/opt` will have permissions set to karl for this purpose
 
